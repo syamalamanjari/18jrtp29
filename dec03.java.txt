@@ -1,1 +1,9 @@
-public dec{}
+public class dec{
+
+public static void main(String[]args){
+
+System.out.pritnln("wlcm to deploy tomcat")
+
+}
+
+}
