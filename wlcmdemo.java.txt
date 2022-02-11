@@ -1,1 +1,11 @@
-demo{}
+public class ss{
+
+public statuc void main (String[]args)
+{
+
+System.out.println("first jenkin vth git repo")
+
+}
+
+
+}
